@@ -1,0 +1,96 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #242242;
+}
+
+.text h1 {
+    color: white;
+    margin-top: 30px;
+    text-align: center;
+}
+
+.text p {
+    color: white;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.icons ul {
+    display: flex;
+    color: white;
+    font-size: 30px;
+    gap: 30px;
+    list-style: none;
+    margin-top: 40px;
+    justify-content: center;
+}
+
+.icons ul li i:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+.input input {
+    width: 500px;
+    height: 50px;
+    border: none;
+    border-radius: 10px;
+    margin-left: 430px;
+    margin-top: 10px;
+    padding-left: 20px;
+}
+
+.input h3 {
+    margin-left: 430px;
+    margin-top: 20px;
+    color: white;
+}
+.input2 h3 {
+    margin-left: 430px;
+    margin-top: 20px;
+    color: white;
+}
+
+.input2 input {
+    width: 500px;
+    height: 50px;
+    border: none;
+    border-radius: 10px;
+    margin-left: 430px;
+    margin-top: 10px;
+    padding-left: 20px;
+}
+.input3 h3 {
+    margin-left: 430px;
+    margin-top: 20px;
+    color: white;
+}
+
+.input3 input {
+    width: 500px;
+    height: 50px;
+    border: none;
+    border-radius: 10px;
+    margin-left: 430px;
+    margin-top: 10px;
+    padding-left: 20px;
+}
+
+.button_umonk{
+    width: 280px;
+    height: 50px;
+    margin-left: 550px;
+    margin-top: 50px;
+    margin-bottom: 150px;
+    font-size: 20px;
+}
+
+.button_umonk a{
+text-decoration: none;
+}
