@@ -1,0 +1,94 @@
+
+body{
+    background:#242242;
+}
+
+.text h1 {
+    color: white;
+    margin-top: 50px;
+    text-align: center;
+    margin-left: -60px;
+}
+
+a{
+    padding: 15px 165px;
+    text-decoration: none;
+    position: relative;
+    border: 2px solid blue;
+    color: white;
+    margin-left: 460px;
+    top: 50px; 
+    font-size: 20px;
+}
+
+button {
+    width: 410px;
+    height: 50px;
+    color: white;
+    font-size: 22px;
+    margin-top: 20px;
+    background: blue;
+    margin-left: -50px;
+
+}
+
+.email input {
+    width: 400px;
+    height: 50px;
+    border: none;
+    border-radius: 10px;
+    margin-left: -100px;
+    margin-top: 100px;
+    padding-left: 20px;
+    background-color: #242242;
+    border: 1px solid gray;
+    font-size: 20px;
+}
+
+.email label {
+    position: relative;
+    top: -50px;
+    font-size: 25px;
+    color: white;
+}
+
+
+.password input {
+    width: 400px;
+    height: 50px;
+    border: none;
+    border-radius: 10px;
+    margin-left: -140px;
+    margin-top: 70px;
+    padding-left: 20px;
+    background-color: #242242;
+    border: 1px solid gray;
+    font-size: 20px;
+}
+
+.password label {
+    position: relative;
+    top: -50px;
+    font-size: 25px;
+    color: white;
+}
+
+.repassword input {
+    width: 400px;
+    height: 50px;
+    border: none;
+    border-radius: 10px;
+    margin-left: -230px;
+    margin-top: 70px;
+    padding-left: 20px;
+    background-color: #242242;
+    border: 1px solid gray;
+    font-size: 20px;
+}
+
+.repassword label {
+    position: relative;
+    top: -50px;
+    font-size: 25px;
+    color: white;
+}
